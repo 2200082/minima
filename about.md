@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking.
 
-You can find the source code for Minima at GitHub:
+You can find the source code for this Website Layout "Minima" at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
