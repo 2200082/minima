@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Hannah Bittl
+title: "Hello & Welcome!"
 ---
 Hello & Welcome!
 <br><br>
