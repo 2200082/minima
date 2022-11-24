@@ -5,7 +5,6 @@ title: "Hello & Welcome!"
 ---
 Hello & Welcome!
 <br><br>
-<!-- <img align="right" src="doc/subpagelist.png"> -->
 I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication.
 <br>
 <img align="right" src="https://github.com/2200082/minima/blob/master/_includes/images/waving_girl.gif">
