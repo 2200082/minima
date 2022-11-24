@@ -8,7 +8,13 @@ meta: "Springfield"
 
 Before we dive straight into the topic, we should first lay some foundations. I can recommend two short videos on YouTube for this, which I will also summarise briefly in each case - don't worry.
 <br><br>
-#### Video 1 - Generations X, Y and Z (https://www.youtube.com/watch?v=TtIojDWOsgg)
+#### Video 1 - Generations X, Y and Z
+<br>
+<br>
+[![Generations X, Y and Z]
+(https://img.youtube.com/vi/TtIojDWOsgg/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=TtIojDWOsgg)
+<br>
 <br>
 -	Generational location = “meaning that all members of a generation share a similar collective experience”, years are just approximately
 -	5 generations currently
