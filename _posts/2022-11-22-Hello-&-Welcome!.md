@@ -3,6 +3,7 @@ layout: post
 ---
 Hello & Welcome!
 <br><br>
+<!-- <img align="right" src="doc/subpagelist.png"> -->
 I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication.
 <br>
 <br>
