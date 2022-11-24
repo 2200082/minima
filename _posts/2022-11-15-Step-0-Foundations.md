@@ -8,7 +8,7 @@ meta: "Springfield"
 
 Before we dive straight into the topic, we should first lay some foundations. I can recommend two short videos on YouTube for this, which I will also summarise briefly in each case - don't worry.
 <br><br>
-## Video 1 - Generations X, Y and Z (https://www.youtube.com/watch?v=TtIojDWOsgg)
+#### Video 1 - Generations X, Y and Z (https://www.youtube.com/watch?v=TtIojDWOsgg)
 <br>
 -	Generational location = “meaning that all members of a generation share a similar collective experience”, years are just approximately
 -	5 generations currently
@@ -55,7 +55,7 @@ Feel free to think about your own personal VR map!
 
 
 
-### Some great subheading (h3)
+##### Some great subheading (h3)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
