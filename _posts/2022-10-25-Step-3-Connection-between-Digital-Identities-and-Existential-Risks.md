@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+author: Hannah Bittl
+title: "Step 3 - Connection between Digital Identities and Existential Risks"
 categories: misc
 ---
 
