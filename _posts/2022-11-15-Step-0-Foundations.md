@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Step 0 - Foundations"
+title: "Step 0 - Introduction & Foundations"
 categories: junk
 author: Hannah Bittl
 meta: "Springfield"
 ---
 
-Before we dive straight into the topic, we should first lay some foundations. I can recommend two short videos on YouTube for this, which I will also summarise briefly in each case - don't worry.
+Again, welcome to my webpage! Thank you for your interest in the connection between Digital Identities and Existential Risks. Before we dive straight into the topic, we should first lay some foundations, that are essential for further and deeper understanding. I can recommend two short videos on YouTube for this, which I will also summarise briefly in each case - don't worry ;).
 <br><br>
 
 #### Video 1 - Generations X, Y and Z
