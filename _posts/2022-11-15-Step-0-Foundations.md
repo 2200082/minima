@@ -8,8 +8,8 @@ meta: "Springfield"
 
 Before we dive straight into the topic, we should first lay some foundations. I can recommend two short videos on YouTube for this, which I will also summarise briefly in each case - don't worry.
 <br><br>
+
 #### Video 1 - Generations X, Y and Z
-<br>
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TtIojDWOsgg" target="_blank">
  <img src="http://img.youtube.com/vi/TtIojDWOsgg/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
@@ -31,9 +31,10 @@ Before we dive straight into the topic, we should first lay some foundations. I 
     - Collaborations, digital devices
     - Most similarities with millennials
 -	Communication has changed: everything online happens pretty much instantaneously
-<br>
-#### Video 2 - Visitor-Resident Concept
 <br><br>
+
+#### Video 2 - Visitor-Resident Concept
+<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sPOG3iThmRI" target="_blank">
  <img src="http://img.youtube.com/vi/sPOG3iThmRI/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
 </a>
