@@ -8,6 +8,7 @@ Hello & Welcome!
 <!-- <img align="right" src="doc/subpagelist.png"> -->
 I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication.
 <br>
+<img align="right" src="minima/_includes/images/waving_girl.gif">
 <br>
 This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking.
 <br>
