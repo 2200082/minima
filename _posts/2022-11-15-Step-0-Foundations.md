@@ -11,15 +11,9 @@ Before we dive straight into the topic, we should first lay some foundations. I 
 #### Video 1 - Generations X, Y and Z
 <br>
 <br>
-[![Generations X, Y and Z](https://img.youtube.com/vi/TtIojDWOsgg/default.jpg)](https://youtu.be/TtIojDWOsgg) <br><br>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TtIojDWOsgg" target="_blank">
- <img src="http://img.youtube.com/vi/TtIojDWOsgg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/TtIojDWOsgg/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
 </a>
-
-<br> <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TtIojDWOsgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 <br>
 -	Generational location = “meaning that all members of a generation share a similar collective experience”, years are just approximately
