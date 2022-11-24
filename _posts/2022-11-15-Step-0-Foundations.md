@@ -45,7 +45,7 @@ In this model, a horizontal distinction can be made between visitors and residen
 -	visitors: collection of tools, getting a job done, “toolbox”, use it and put it back
   - search information, use information, go offline again
   - no social trace of ourselves
-  - e.g. booking a hotel
+  - e.g. booking a hotel 
 -	residents: series of spaces / places
   - to be present
   - engagement, leaves social trace after going offline
