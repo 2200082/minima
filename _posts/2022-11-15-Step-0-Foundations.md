@@ -32,12 +32,12 @@ Before we dive straight into the topic, we should first lay some foundations. I 
     - Most similarities with millennials
 -	Communication has changed: everything online happens pretty much instantaneously
 <br>
-#### Video 2 - Introduction
-<br>
+#### Video 2 - Visitor-Resident Concept
+<br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sPOG3iThmRI" target="_blank">
  <img src="http://img.youtube.com/vi/sPOG3iThmRI/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
 </a>
-<br>
+<br><br>
 This video is all about digital technology. If you compare the current generation with all previous ones, it is noticeable that the current one is the only one that naturally grew up with digital technologies. Everyone else is not a "native speaker" and must first learn how to use such technologies as a "second language". <br>
 The visitor/resident concept is also introduced and explained. I have linked a more detailed video on this concept for you here (https://youtu.be/MSK1Iw1XtwQ), as this represents a fundamental idea for digital identities.<br><br>
 In this model, a horizontal distinction can be made between visitors and residents.
