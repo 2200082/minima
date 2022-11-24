@@ -56,7 +56,7 @@ In this model, a horizontal distinction can be made between **visitors and resid
 If this model is extended by a vertical axis, a distinction can also be made with regard to the purpose: **institutional vs. personal**. <br><br>
 To show you the whole concept a little more practically, I have created my personal VR map here. To do this, I first considered which digital services I am using and then entered them into the model.
 <br><br>
-[Bild VR Map] 
+<img align="right" src="https://github.com/2200082/minima/blob/master/_includes/images/vr_map.png">
 <br><br>
 Whatsapp, for example, is on the far right for me, i.e. at the end of the resident area, because I leave a trace of myself in the chats here in a certain way. I use it mainly for personal purposes, but also occasionally for professional purposes, hence the classification in both areas. I only use LinkedIn for professional purposes, hence the classification at the bottom. Since I also present myself on this platform - not as strongly as on Instagram, but still noticeable - I place LinkedIn in the resident sector. <br><br>
 Unlike me, the services usually end up either in the lower left or upper right sector, e.g. here: BILD <br>
