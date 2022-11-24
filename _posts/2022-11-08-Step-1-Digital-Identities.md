@@ -17,7 +17,7 @@ There are various definitions for this and I don’t want to commit to one a spe
 
 
 <br> <br>
-In summary you can say that…
+In summary you can say that digital identities are traces we leave - consciously or also unconsciously - behind online. Now the VR map also makes sense. It can be used to classify how much information we disseminate online and for what purpose. We're using these "metaphors of Visitor and Resident as ways in which people’s online engagement might be conceptualised" (White & Le Cornu, https://firstmonday.org/ojs/index.php/fm/article/download/7802/6515). 
 <br> <br>
 People’s Digital Identities consist out of three elements: (miteksystems.com)<br>
 -	**Existence** — Users must have an independent existence.
