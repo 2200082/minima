@@ -8,7 +8,7 @@ While searching for definitions for the term "existential risk", I found an inte
 For me personally, the following definition is the most appropriate.<br>
 > **Existential Risk**: An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. 
 <br>
-<br> *I also noticed during my research that people often talk about global catastrophic risk or existential threat. Of course, these terms can be specified more precisely, but in this project, we regard them as synonyms.*
+<br> I also noticed during my research that people often talk about global catastrophic risk or existential threat. Of course, these terms can be specified more precisely, but in this project, we regard them as synonyms.
 
 ### Existential Risks - Examples 
 <br>
