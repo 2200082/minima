@@ -10,7 +10,7 @@ If you still have questions, feel free to contact me via the following channels:
 -	Instagram:
 -	LinkedIn:
 -	Twitter: ...
-[//]: # (Hello)
+<a/>
 <br><br> 
 If you like, you are also very welcome to leave feedback! <br>
 I am open to constructive criticism, suggestions for improvement and other views, as I think this is a topic that can be better understood through discourse.
