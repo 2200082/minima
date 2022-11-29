@@ -6,9 +6,7 @@ title: "Step 2 - Existential Risks"
 
 While searching for definitions for the term "existential risk", I found an interesting paper (https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf) that compares and evaluates different definitions. If you’re more interested in that, go ahead and have a look! <br>
 For me personally, the following definition is the most appropriate.<br>
-<p>
 > **Existential Risk**: An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. 
-</p>
 <br>
 <br> I also noticed during my research that people often talk about global catastrophic risk or existential threat. Of course, these terms can be specified more precisely, but in this project, we regard them as synonyms.
 
@@ -24,12 +22,10 @@ If you want to gain some more and deeper knowledge about the existential risk of
 **Climate change** is a growing concern that people and governments around the world are trying to address. As the global average temperature rises, droughts, floods, extreme storms, and more could become the norm. The resulting food, water and housing shortages could trigger economic instabilities and war. While climate change itself is unlikely to be an existential risk, the havoc it wreaks could increase the likelihood of nuclear war, pandemics or other catastrophes. <br>
 Again, if you want to gain deeper knowledge about the existential risk of Climate Change I recommend looking at a fellow student's website: *LINK*
 <br><br>
-<p>
 **other existential risks**
 - Other emerging technologies: forms of geo-engineering and atomic manufacturing
 -	naturally occurring existential threats (asteroids, …)
 -	Engineered pandemics
 -	Wars 
-</p>
 <br><br>
 ### Risks
