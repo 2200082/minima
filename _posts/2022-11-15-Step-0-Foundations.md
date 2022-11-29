@@ -12,7 +12,7 @@ Again, welcome to my webpage! Thank you for your interest in the connection betw
 #### Video 1 - Generations X, Y and Z
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TtIojDWOsgg" target="_blank">
- <img src="http://img.youtube.com/vi/TtIojDWOsgg/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
+ <img align="center" src="http://img.youtube.com/vi/TtIojDWOsgg/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
 </a>
 <br>
 <br>
@@ -38,7 +38,7 @@ Communication has changed: everything online happens pretty much instantaneously
 #### Video 2 - Visitor-Resident Concept
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sPOG3iThmRI" target="_blank">
- <img src="http://img.youtube.com/vi/sPOG3iThmRI/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
+ <img align="center" src="http://img.youtube.com/vi/sPOG3iThmRI/mqdefault.jpg" alt="Watch the video" width="500" height="280" border="10" />
 </a>
 <br><br>
 This video is all about digital technology. If you compare the current generation with all previous ones, it is noticeable that the current one is the only one that naturally grew up with digital technologies. Everyone else is not a "native speaker" and must first learn how to use such technologies as a "second language". <br>
