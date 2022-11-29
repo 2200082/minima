@@ -31,7 +31,6 @@ There are currently 5 generations:
   - **Centennials / Gen Z**: born from 1996 to the present
     - Collaborations, digital devices
     - Most similarities with millennials
-<a/>
 <br><br>
 Communication has changed: everything online happens pretty much instantaneously
 <br><br>
@@ -53,7 +52,6 @@ In this model, a horizontal distinction can be made between **visitors and resid
   - to be present
   - engagement, leaves social trace after going offline
   - e.g. photos, blogposts -> linked to our identity 
-<a/>
 <br><br>
 If this model is extended by a vertical axis, a distinction can also be made with regard to the purpose: **institutional vs. personal**. <br><br>
 To show you the whole concept a little more practically, I have created my personal VR map here. To do this, I first considered which digital services I am using and then entered them into the model.
