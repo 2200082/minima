@@ -2,7 +2,7 @@
 layout: post
 author: Hannah Bittl
 title: "Hello & Welcome!"
-image: assets/images/waving_girl.gif
+image: /assets/images/waving_girl.gif
 ---
 Hello & Welcome!
 <br><br>
