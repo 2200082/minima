@@ -5,8 +5,6 @@ title: "Step 4 - Critical Thinking"
 categories: misc
 ---
 
-<img align="center" src="https://github.com/2200082/minima/blob/master/_includes/images/di_and_er.png">
-<br><br>
 We have now created a good basis for taking a closer look at how the existential risks just explained are connected to our personal digital identities. Basically, it can be said that with our digital identities we always make a contribution in the form of an opinion in a post or comment or even consciously by publishing certain contributions in a targeted form. The extent to which this now affects individual existential risks will now be examined in more detail. 
 <br><br>
 A fellow student, Ayah, has examined the connection between digital identities and the existential risks of "climate change" and "wars". [LINK] She found out that ... . If you would like to learn more about this, please visit her website. :)
