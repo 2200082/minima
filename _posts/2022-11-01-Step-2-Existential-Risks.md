@@ -2,6 +2,7 @@
 layout: post
 author: Hannah Bittl
 title: "Step 2 - Existential Risks"
+image4: /assets/images/risks.png
 ---
 
 While searching for definitions for the term "existential risk", I found an interesting paper (https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf) that compares and evaluates different definitions. If you’re more interested in that, go ahead and have a look! <br>
@@ -31,3 +32,5 @@ Again, if you want to gain deeper knowledge about the existential risk of Climat
 -	Wars 
 <br><br>
 ### Risks
+<br>
+![]({{ page.image4 | relative_url }})
