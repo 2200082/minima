@@ -13,7 +13,7 @@ For me personally, the following definition is the most appropriate.<br>
 ### Existential Risks - Examples 
 <br>
 Source: https://futureoflife.org/existential-risk/existential-risk/
-<br> 
+<br><br>
 **Nuclear war** was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.
 <br><br>
 **Biotechnology** and genetics often inspire as much fear as excitement, as people worry about the possibly negative effects of cloning, gene splicing, gene drives, and a host of other genetics-related advancements. While biotechnology provides incredible opportunity to save and improve lives, it also increases existential risks associated with manufactured pandemics and loss of genetic diversity
